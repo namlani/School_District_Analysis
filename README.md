@@ -6,13 +6,14 @@ To replace the math and reading scores for Thomas High School with NaNs while ke
 ## Results
 
 * How is the district summary affected?
-  The averages drop slightly, as seen below"
-  ![image](https://user-images.githubusercontent.com/5934390/123847935-1d8fb600-d8e5-11eb-8699-d0c8f2feade3.png)
-  ![image](https://user-images.githubusercontent.com/5934390/123848162-60ea2480-d8e5-11eb-98f5-ef5c3c3cefee.png)
+  The averages drop slightly, as seen below:
+  ![image](https://user-images.githubusercontent.com/5934390/123849686-179ad480-d8e7-11eb-8c8c-17e091ef67bf.png)
+  
 * How is the school summary affected?
   TThomas High School's position dropped due to the change in its stats:
-  ![image](https://user-images.githubusercontent.com/5934390/123848729-09988400-d8e6-11eb-9ff5-69e7ffda48c7.png)
-  ![image](https://user-images.githubusercontent.com/5934390/123848661-f685b400-d8e5-11eb-97ea-1f3bb3d42685.png)
+  ![image](https://user-images.githubusercontent.com/5934390/123849735-25505a00-d8e7-11eb-9074-5b505d4c519a.png)
+  ![image](https://user-images.githubusercontent.com/5934390/123849763-2da89500-d8e7-11eb-9163-10c5f12f9da1.png)
+
 * How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
   It's position dropped as seen above.
 * How does replacing the ninth-grade scores affect the following:
